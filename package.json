@@ -1,0 +1,23 @@
+{
+  "name": "save-poloniex-data",
+  "version": "1.0.0",
+  "description": "Save Poloniex price information from the Poloniex Live API",
+  "main": "savePrices.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codingupastorm/save-poloniex-data.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codingupastorm/save-poloniex-data/issues"
+  },
+  "homepage": "https://github.com/codingupastorm/save-poloniex-data#readme",
+  "dependencies": {
+    "autobahn": "^17.5.2",
+    "mongodb": "^2.2.31"
+  }
+}
